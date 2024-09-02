@@ -1,0 +1,10 @@
+[+] Client SSH_MSG_KEXINIT detected
+    [38;5;81m[ 172.17.0.3:51490 -> 172.17.0.5:22 ][0m
+        [-] Identification String: [38;5;220mSSH-2.0-OpenSSH_7.7p1 Ubuntu-4ubuntu0.3[0m
+        [-] hassh: [38;5;220m06046964c022c6407d15a27b12a6a4fb[0m
+        [-] hassh Algorithms: [38;5;181mcurve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group-exchange-sha256,diffie-hellman-group16-sha512,diffie-hellman-group18-sha512,diffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha256,diffie-hellman-group14-sha1,ext-info-c;chacha20-poly1305@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr,aes128-gcm@openssh.com,aes256-gcm@openssh.com;umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-64@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1;none,zlib@openssh.com,zlib[0m
+[+] Client SSH_MSG_KEXINIT detected
+    [38;5;81m[ 172.17.0.4:43380 -> 172.17.0.5:22 ][0m
+        [-] Identification String: [38;5;220mSSH-2.0-OpenSSH_8.3p1 Ubuntu-1ubuntu0.1[0m
+        [-] hassh: [38;5;220mae8bd7dd09970555aa4c6ed22adbbf56[0m
+        [-] hassh Algorithms: [38;5;181mcurve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group-exchange-sha256,diffie-hellman-group16-sha512,diffie-hellman-group18-sha512,diffie-hellman-group14-sha256,ext-info-c;chacha20-poly1305@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr,aes128-gcm@openssh.com,aes256-gcm@openssh.com;umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-64@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1;none,zlib@openssh.com,zlib[0m
